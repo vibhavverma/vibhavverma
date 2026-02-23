@@ -1,17 +1,22 @@
-# Hi, I'm Vibhav
+# Vibhav Verma
 
-Software engineer building things with Go, TypeScript, and vanilla web tech.
+Marketing professional building software with AI-native workflows.
 
-## Projects
+Every repo here is maintained with Claude Code — custom agents, automated deploys, and structured engineering practices.
 
-- **[rivi.me](https://rivi.me)** — Wedding RSVP site built with vanilla HTML/CSS/JS + Supabase
-- **[website-cloner-rivi](https://github.com/vibhavverma/website-cloner-rivi)** — CLI tool for cloning websites locally, built in Go with chromedp + colly
-- **[nimbusblog](https://github.com/vibhavverma/nimbusblog)** — Blog platform built with TypeScript
+## What I Build
 
-## Tech
+- **[rivi.me](https://rivi.me)** — Wedding RSVP site. Vanilla HTML/CSS/JS + Supabase. Deployed via GitHub Pages.
+- **[website-cloner-rivi](https://github.com/vibhavverma/website-cloner-rivi)** — Go CLI for cloning websites locally. Uses chromedp for headless rendering + colly for crawling.
+- **[nimbusblog](https://vibhavverma.github.io/nimbusblog/)** — Blog CMS built with React + TypeScript. Notion-to-site publishing pipeline.
+- **[rivi-health](https://github.com/vibhavverma/rivi-health)** — Health intelligence platform. Labs, biomarkers, personalized action plans. Next.js + Prisma.
 
-`Go` `TypeScript` `JavaScript` `HTML/CSS` `Supabase` `Vercel` `GitHub Pages`
+## How I Work
 
-## Tools
+- **Claude Code** with custom plugins, skills, and hooks for every project
+- **GitHub Actions** for CI/CD, automated code review, and Claude Code integration
+- **Structured repos** — CLAUDE.md, security policies, PR templates, issue templates
 
-Building with Claude Code, VS Code, and a healthy respect for keeping things simple.
+## Stack
+
+`Go` · `TypeScript` · `Next.js` · `React` · `Supabase` · `Prisma` · `GitHub Pages` · `Claude Code`
